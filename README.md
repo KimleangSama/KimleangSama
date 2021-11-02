@@ -25,7 +25,7 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KimleangSama&color=blueviolet" alt="akash-chowrasia" /> </p>
-<a href="https://app.daily.dev/kimleang"><img src="https://api.daily.dev/devcards/7f2549e8a65c42ab8fdf2ce159e18593.png?r=0cn" width="400" alt="Kimleang's Dev Card"/></a>
+<a align="right" href="https://app.daily.dev/kimleang"><img src="https://api.daily.dev/devcards/7f2549e8a65c42ab8fdf2ce159e18593.png?r=0cn" width="400" alt="Kimleang's Dev Card"/></a>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Talking about Personal Stuffs..._**
 
@@ -38,10 +38,7 @@
 ✔ Ask me about anything, I am happy to help, only if the relevant knowledge is still in my brain!😉<br>
 ✔ Fun fact : _At The time of Stress coding, I learn other easy programming languages, just for fun._<br><br><br><br>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Languages & Tools I Know..._**
-
 <p align="left">
-  <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KimleangSama&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
