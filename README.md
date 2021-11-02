@@ -25,7 +25,7 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KimleangSama&color=blueviolet" alt="akash-chowrasia" /> </p>
-<a align="right" href="https://app.daily.dev/kimleang"><img src="https://api.daily.dev/devcards/7f2549e8a65c42ab8fdf2ce159e18593.png?r=0cn" width="400" alt="Kimleang's Dev Card"/></a>
+<p align="right"><a href="https://app.daily.dev/kimleang"><img src="https://api.daily.dev/devcards/7f2549e8a65c42ab8fdf2ce159e18593.png?r=0cn" width="400" alt="Kimleang's Dev Card"/></a></p>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Talking about Personal Stuffs..._**
 
