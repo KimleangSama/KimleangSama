@@ -93,6 +93,6 @@ And that's about it. The `README.md` of your profile readme repository will be d
 
 Author: [Kea Kimleang](https://github.com/KimleangSama)
 
-Last Edited on: 09/May/2021
-
-<a href="https://app.daily.dev/kimleang"><img src="https://api.daily.dev/devcards/7f2549e8a65c42ab8fdf2ce159e18593.png?r=0cn" alt="Kimleang's Dev Card"/></a>
+Revision: 
+  - V1: 09/May/2021
+  - V2: 13/June/2022
