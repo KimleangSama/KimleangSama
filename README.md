@@ -2,19 +2,19 @@
   <img src="./assets/images/cover-thompson.png" height="200"/>
 </p>
 <hr>
-<h1 align="center">Hi <img src="./assets/gifs/Hi.gif" width="30px">, I'm Kea Kimleang</h1>
-<h3 align="center">IT Instructor | Software Engineer | Technical Content Writer</h3>
+<h1 align="center">Hi <img src="./assets/gifs/Hi.gif" width="30px">, I'm Kimleang Kea</h1>
+<h3 align="center">PhD Researcher | IT Instructor | Software Engineer</h3>
 <p align="center">
-<a href="https://kimleang.cyou" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/firefox.svg" alt="aksia" height="30" width="40" /></a>
+<a href="https://keakimleang.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/firefox.svg" alt="aksia" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kimleang-kea-0161731b9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
-<a href="https://www.facebook.com/Kimleang.Kea.1998" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash chowrasia" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kimleang_hrd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@chowrasia_akash1" height="30" width="40" /></a>
 <a href = "mailto: kimleang.hrd@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 
 <p align="center">
   <em>
-    This is ME, Kea Kimleang, a <b>fresh graduated</b> from <a href="http://www.rupp.edu.kh/"> <b>Royal University of Phnom Penh</b></a>.<br>
+    This is ME, Kimleang Kea, a <b>fresh graduated</b> from <a href="http://www.rupp.edu.kh/"> <b>Royal University of Phnom Penh</b></a>.<br>
+    Current PhD Researcher at Pukyong National University in South Korea.
     A highly-motivated <b>Full-Stack Software Developer</b> <img src="./assets/gifs/Developer.gif" width="30px"> and a <b>Programming Enthusiast Person</b>&nbsp;<img src="./assets/gifs/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="./assets/gifs/Rocket.gif" width="18px">and 
@@ -30,13 +30,11 @@
 
 <p align='left'>
 ✔ Pronouns: He/His or \***HandsomeCoder*\**😉<br>
-✔ I’m currently IT Instructor at **KSHRD**<br>
-✔ I’m currently learning **NestJS**, **Spring Boot** & **Angular**<br>
+✔ I’m currently learning **Machine Learning**, **Deep Learning** & **Quantum Machine Learning**<br>
 ✔ I’m normally surfing Internet for **Cool Projects** to learn from.<br>
 ✔ I’m looking for recommendation tools to **learn**<br>
-✔ I regularly write articles on [Personal Website](https://blog.kimleang.cyou) <br>
 ✔ Ask me about anything, I am happy to help, only if the relevant knowledge is still in my brain!😉<br>
-✔ Fun fact : _At The time of Stress coding, I learn other easy programming languages, just for fun._<br><br><br><br>
+✔ Fun fact : _At The time of stress coding, I learn other easy programming languages, just for fun._<br><br><br><br>
 </p>
 
 <p align="left">
@@ -96,3 +94,4 @@ Author: [Kea Kimleang](https://github.com/KimleangSama)
 Revision: 
   - V1: 09/May/2021
   - V2: 13/June/2022
+  - V3: 12/July/2023
