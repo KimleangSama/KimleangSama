@@ -14,7 +14,7 @@
 <p align="center">
   <em>
     This is ME, Kimleang Kea, a <b>fresh graduated</b> from <a href="http://www.rupp.edu.kh/"> <b>Royal University of Phnom Penh</b></a>.<br>
-    Current PhD Researcher at Pukyong National University in South Korea.
+    Current PhD Researcher at Pukyong National University in South Korea.<br>
     A highly-motivated <b>Full-Stack Software Developer</b> <img src="./assets/gifs/Developer.gif" width="30px"> and a <b>Programming Enthusiast Person</b>&nbsp;<img src="./assets/gifs/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="./assets/gifs/Rocket.gif" width="18px">and 
