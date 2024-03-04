@@ -8,13 +8,13 @@
 <a href="https://keakimleang.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/firefox.svg" alt="aksia" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kimleang-kea-0161731b9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kimleang_hrd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@chowrasia_akash1" height="30" width="40" /></a>
-<a href = "mailto: kimleang.hrd@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+<a href = "mailto: kimleang.rscher@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 
 <p align="center">
   <em>
     This is ME, Kimleang Kea, a <b>fresh graduated</b> from <a href="http://www.rupp.edu.kh/"> <b>Royal University of Phnom Penh</b></a>.<br>
-    Current PhD Researcher at Pukyong National University in South Korea.<br>
+    Current Master Researcher at Pukyong National University in South Korea.<br>
     A highly-motivated <b>Full-Stack Software Developer</b> <img src="./assets/gifs/Developer.gif" width="30px"> and a <b>Programming Enthusiast Person</b>&nbsp;<img src="./assets/gifs/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="./assets/gifs/Rocket.gif" width="18px">and 
@@ -29,12 +29,12 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Talking about Personal Stuffs..._**
 
 <p align='left'>
-✔ Pronouns: He/His or \***HandsomeCoder*\**😉<br>
+✔ Pronouns: He/His or **HandsomeCoder** 😉<br>
 ✔ I’m currently learning **Machine Learning**, **Deep Learning** & **Quantum Machine Learning**<br>
 ✔ I’m normally surfing Internet for **Cool Projects** to learn from.<br>
 ✔ I’m looking for recommendation tools to **learn**<br>
 ✔ Ask me about anything, I am happy to help, only if the relevant knowledge is still in my brain!😉<br>
-✔ Fun fact : _At The time of stress coding, I learn other easy programming languages, just for fun._<br><br><br><br>
+✔ Fun fact : At The time of stress coding, I learn other easy programming languages, just for fun.<br><br><br><br>
 </p>
 
 <p align="left">
@@ -95,3 +95,4 @@ Revision:
   - V1: 09/May/2021
   - V2: 13/June/2022
   - V3: 12/July/2023
+  - V4: 03/March/2024
