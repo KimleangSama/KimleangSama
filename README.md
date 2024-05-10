@@ -34,7 +34,7 @@
 ✔ I’m normally surfing Internet for **Cool Projects** to learn from.<br>
 ✔ I’m looking for recommendation tools to **learn**<br>
 ✔ Ask me about anything, I am happy to help, only if the relevant knowledge is still in my brain!😉<br>
-✔ Fun fact : At The time of stress coding, I learn other easy programming languages, just for fun.<br><br><br><br>
+✔ Fun fact : At the time of stress coding, I learn other easy programming languages, just for fun.<br><br><br><br>
 </p>
 
 <p align="left">
