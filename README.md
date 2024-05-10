@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="./assets/gifs/Hi.gif" width="30px">, I'm Kimleang Kea</h1>
-<h3 align="center">PhD Researcher | IT Instructor | Software Engineer</h3>
+<h3 align="center">M.S. Researcher | IT Instructor | Software Engineer</h3>
 <p align="center">
 <a href="https://keakimleang.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/firefox.svg" alt="aksia" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kimleang-kea-0161731b9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
@@ -89,10 +89,11 @@ And that's about it. The `README.md` of your profile readme repository will be d
 
 ---
 
-Author: [Kea Kimleang](https://github.com/KimleangSama)
+Author: [Kimleang Kea](https://github.com/KimleangSama)
 
 Revision: 
   - V1: 09/May/2021
   - V2: 13/June/2022
   - V3: 12/July/2023
   - V4: 03/March/2024
+  - V5: 10/May/2024
