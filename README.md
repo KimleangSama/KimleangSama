@@ -29,10 +29,9 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Talking about Personal Stuffs..._**
 
 <p align='left'>
-✔ Pronouns: He/His or **HandsomeCoder** 😉<br>
 ✔ I’m currently learning **Machine Learning**, **Deep Learning** & **Quantum Machine Learning**<br>
-✔ I’m normally surfing Internet for **Cool Projects** to learn from.<br>
-✔ I’m looking for recommendation tools to **learn**<br>
+✔ I’m normally surfing Internet for cool projects to learn from.<br>
+✔ I’m looking for recommendation tools to learn.<br>
 ✔ Ask me about anything, I am happy to help, only if the relevant knowledge is still in my brain!😉<br>
 ✔ Fun fact : At the time of stress coding, I learn other easy programming languages, just for fun.<br><br><br><br>
 </p>
@@ -97,3 +96,4 @@ Revision:
   - V3: 12/July/2023
   - V4: 03/March/2024
   - V5: 10/May/2024
+  - V6: 10/June/2024
