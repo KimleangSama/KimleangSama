@@ -13,8 +13,7 @@
 
 <p align="center">
   <em>
-    This is ME, Kimleang Kea, a <b>fresh graduated</b> from <a href="http://www.rupp.edu.kh/"> <b>Royal University of Phnom Penh</b></a>.<br>
-    Current Master Researcher at Pukyong National University in South Korea.<br>
+    This is ME, Kimleang Kea, a <b>fresh MASTER DEGREE graduated</b> from <a href="https://www.pknu.ac.kr/main"> <b>Pukyong National University</b></a>, Busan, South Korea.<br>
     A highly-motivated <b>Full-Stack Software Developer</b> <img src="./assets/gifs/Developer.gif" width="30px"> and a <b>Programming Enthusiast Person</b>&nbsp;<img src="./assets/gifs/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="./assets/gifs/Rocket.gif" width="18px">and 
@@ -33,7 +32,6 @@
 ✔ I’m normally surfing Internet for cool projects to learn from.<br>
 ✔ I’m looking for recommendation tools to learn.<br>
 ✔ Ask me about anything, I am happy to help, only if the relevant knowledge is still in my brain!😉<br>
-✔ Fun fact : At the time of stress coding, I learn other easy programming languages, just for fun.<br><br><br><br>
 </p>
 
 <p align="left">
@@ -42,39 +40,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KimleangSama&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KimleangSama&show_icons=true&locale=en" alt="akash-chowrasia" width="410" /></p>
-
-<!-- <hr>
-
-Here are some [🦜 parrots](https://cultofthepartyparrot.com):
-
-<div>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
-</div>
-
-<hr> -->
 
 #### Want to Build Your Own?
 
@@ -86,7 +51,24 @@ Do you like my profile and want to build your own? It's very simple. GitHub rece
 
 And that's about it. The `README.md` of your profile readme repository will be displayed on your profile page.
 
----
+<hr/>
+<div>
+  <h1>South Korea 2022 ~ 2024</h1>
+  <img src="https://i.imgur.com/E9VWTUT.jpeg" width="24%"/>
+  <h1>New Zealand 2022.12.05 ~ 12</h1>
+  <img src="https://www.kkimleang.com/wp-content/themes/kimleang/assets/images/nz/1.jpg" width="24%"/>
+  <img src="https://www.kkimleang.com/wp-content/themes/kimleang/assets/images/nz/3.jpg" width="24%"/>
+  <img src="https://www.kkimleang.com/wp-content/themes/kimleang/assets/images/nz/2.jpg" width="24%"/>
+  <img src="https://www.kkimleang.com/wp-content/themes/kimleang/assets/images/nz/4.jpg" width="24%"/>
+  <h1>Switzerland 2023.1.17 ~ 25</h1>
+  <img src="https://www.kkimleang.com/wp-content/themes/kimleang/assets/images/swiss/1.jpg" width="24%"/>
+  <img src="https://www.kkimleang.com/wp-content/themes/kimleang/assets/images/swiss/2.jpg" width="24%"/>
+  <img src="https://www.kkimleang.com/wp-content/themes/kimleang/assets/images/swiss/4.jpg" width="24%"/>
+  <img src="https://www.kkimleang.com/wp-content/themes/kimleang/assets/images/swiss/5.jpg" width="24%"/>
+  <h1>Vietnam 2024.01.22 ~ 27</h1>
+  <img src="https://www.kkimleang.com/wp-content/themes/kimleang/assets/images/hanoi/halong.jpg" width="24%"/>
+</div>
+<hr/>
 
 Author: [Kimleang Kea](https://github.com/KimleangSama)
 
@@ -97,3 +79,4 @@ Revision:
   - V4: 03/March/2024
   - V5: 10/May/2024
   - V6: 10/June/2024
+  - V7: 30/June/2024
